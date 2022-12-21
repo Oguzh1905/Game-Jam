@@ -919,7 +919,11 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
+<<<<<<< main
   orthographic size: 200
+=======
+  orthographic size: 5
+>>>>>>> Ui update
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -943,7 +947,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< main
   m_LocalPosition: {x: 343, y: 193, z: -997}
+=======
+  m_LocalPosition: {x: 0, y: 0, z: -10}
+>>>>>>> Ui update
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1430,6 +1438,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 948719506}
   m_CullTransparentMesh: 1
+<<<<<<< main
 --- !u!1 &962785683
 GameObject:
   m_ObjectHideFlags: 0
@@ -6287,6 +6296,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 962785683}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> Ui update
 --- !u!1 &1013502245
 GameObject:
   m_ObjectHideFlags: 0
@@ -6388,7 +6399,10 @@ RectTransform:
   - {fileID: 86332418}
   - {fileID: 1273204820}
   - {fileID: 1979134746}
+<<<<<<< main
   - {fileID: 962785684}
+=======
+>>>>>>> Ui update
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -6650,7 +6664,11 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
+<<<<<<< main
       - m_Target: {fileID: 1295583512}
+=======
+      - m_Target: {fileID: 1013502250}
+>>>>>>> Ui update
         m_TargetAssemblyTypeName: mainmenu, Assembly-CSharp
         m_MethodName: PlayGame
         m_Mode: 1
@@ -6924,7 +6942,10 @@ GameObject:
   - component: {fileID: 1295583509}
   - component: {fileID: 1295583511}
   - component: {fileID: 1295583510}
+<<<<<<< main
   - component: {fileID: 1295583512}
+=======
+>>>>>>> Ui update
   m_Layer: 5
   m_Name: Button container
   m_TagString: Untagged
@@ -6993,6 +7014,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1295583508}
   m_CullTransparentMesh: 1
+<<<<<<< main
 --- !u!114 &1295583512
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7005,6 +7027,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ad3cfd7358cda54a9ffa2985164cba5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+=======
+>>>>>>> Ui update
 --- !u!1 &1358911071
 GameObject:
   m_ObjectHideFlags: 0
@@ -7403,7 +7427,10 @@ GameObject:
   - component: {fileID: 1979134746}
   - component: {fileID: 1979134748}
   - component: {fileID: 1979134747}
+<<<<<<< main
   - component: {fileID: 1979134749}
+=======
+>>>>>>> Ui update
   m_Layer: 5
   m_Name: Image
   m_TagString: Untagged
@@ -7469,6 +7496,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1979134745}
   m_CullTransparentMesh: 1
+<<<<<<< main
 --- !u!95 &1979134749
 Animator:
   serializedVersion: 4
@@ -7489,6 +7517,8 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+=======
+>>>>>>> Ui update
 --- !u!1 &1997249267
 GameObject:
   m_ObjectHideFlags: 0
@@ -7708,7 +7738,11 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
+<<<<<<< main
       - m_Target: {fileID: 1295583512}
+=======
+      - m_Target: {fileID: 1013502250}
+>>>>>>> Ui update
         m_TargetAssemblyTypeName: mainmenu, Assembly-CSharp
         m_MethodName: QuitGame
         m_Mode: 1
