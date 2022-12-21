@@ -123,42 +123,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1 &270522927 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 375139883846876619, guid: 3650f4ddc603ff74a8b2be619b853b0c, type: 3}
-  m_PrefabInstance: {fileID: 677894369}
-  m_PrefabAsset: {fileID: 0}
---- !u!61 &270522928
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 270522927}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: -0.27656794, y: -0.8015481}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 3.6, y: 3.2}
-    newSize: {x: 3.6, y: 3.2}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 0.92901516, y: 1.5788815}
-  m_EdgeRadius: 0
---- !u!4 &270522933 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 375139883846876620, guid: 3650f4ddc603ff74a8b2be619b853b0c, type: 3}
-  m_PrefabInstance: {fileID: 677894369}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &677894369
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -176,11 +140,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 375139883846876620, guid: 3650f4ddc603ff74a8b2be619b853b0c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.62
+      value: -7.77
       objectReference: {fileID: 0}
     - target: {fileID: 375139883846876620, guid: 3650f4ddc603ff74a8b2be619b853b0c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.97
+      value: -0.61
       objectReference: {fileID: 0}
     - target: {fileID: 375139883846876620, guid: 3650f4ddc603ff74a8b2be619b853b0c, type: 3}
       propertyPath: m_LocalPosition.z
@@ -222,6 +186,18 @@ PrefabInstance:
       propertyPath: jumpableGround.m_Bits
       value: 64
       objectReference: {fileID: 0}
+    - target: {fileID: 8489731522450931689, guid: 3650f4ddc603ff74a8b2be619b853b0c, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8489731522450931689, guid: 3650f4ddc603ff74a8b2be619b853b0c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.67
+      objectReference: {fileID: 0}
+    - target: {fileID: 8489731522450931689, guid: 3650f4ddc603ff74a8b2be619b853b0c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.38
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 375139883846876617, guid: 3650f4ddc603ff74a8b2be619b853b0c, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 3650f4ddc603ff74a8b2be619b853b0c, type: 3}
@@ -238,7 +214,7 @@ GameObject:
   - component: {fileID: 1128666844}
   - component: {fileID: 1128666843}
   - component: {fileID: 1128666842}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Enemy_elf
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -257,7 +233,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a170d4682643dc4091fd5b08611dbf0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 270522933}
+  player: {fileID: 0}
   agroRange: 2
   moveSpeed: 3
 --- !u!61 &1128666843
@@ -367,7 +343,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1128666841}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.28, y: -1.58, z: 0.061845567}
+  m_LocalPosition: {x: 5.65, y: -1.69, z: 0.061845567}
   m_LocalScale: {x: 1.0781, y: 0.8048187, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -478,7 +454,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1277311873}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.18, y: -3.92, z: 0}
+  m_LocalPosition: {x: 0.1, y: -4.06, z: 0}
   m_LocalScale: {x: 22.8635, y: 2.0128284, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -538,7 +514,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 4.921081
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
