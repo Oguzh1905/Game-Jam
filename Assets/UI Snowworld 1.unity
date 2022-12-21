@@ -1792,7 +1792,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1013502250}
+      - m_Target: {fileID: 1295583512}
         m_TargetAssemblyTypeName: mainmenu, Assembly-CSharp
         m_MethodName: PlayGame
         m_Mode: 1
@@ -2066,6 +2066,7 @@ GameObject:
   - component: {fileID: 1295583509}
   - component: {fileID: 1295583511}
   - component: {fileID: 1295583510}
+  - component: {fileID: 1295583512}
   m_Layer: 5
   m_Name: Button container
   m_TagString: Untagged
@@ -2134,6 +2135,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1295583508}
   m_CullTransparentMesh: 1
+--- !u!114 &1295583512
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1295583508}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad3cfd7358cda54a9ffa2985164cba5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1358911071
 GameObject:
   m_ObjectHideFlags: 0
@@ -2532,6 +2545,7 @@ GameObject:
   - component: {fileID: 1979134746}
   - component: {fileID: 1979134748}
   - component: {fileID: 1979134747}
+  - component: {fileID: 1979134749}
   m_Layer: 5
   m_Name: Image
   m_TagString: Untagged
@@ -2597,6 +2611,26 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1979134745}
   m_CullTransparentMesh: 1
+--- !u!95 &1979134749
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1979134745}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 2fae53c8175312a47bffbfcc48322d2e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1997249267
 GameObject:
   m_ObjectHideFlags: 0
@@ -2816,7 +2850,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1013502250}
+      - m_Target: {fileID: 1295583512}
         m_TargetAssemblyTypeName: mainmenu, Assembly-CSharp
         m_MethodName: QuitGame
         m_Mode: 1
