@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/UI Snowworld.unity
+    guid: 4e7af068fcfc40e46bc2b84fab9abd14
+  - enabled: 1
+    path: Assets/SnowWorld.unity
+    guid: 10ef1f928bffc0f4d86bbeb4452f0252
   m_configObjects: {}
