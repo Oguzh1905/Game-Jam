@@ -12,7 +12,11 @@ Material:
   m_Shader: {fileID: 10753, guid: 0000000000000000f000000000000000, type: 0}
 =======
   m_Name: Snowflake
+<<<<<<< main
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+>>>>>>> Map update
+=======
+  m_Shader: {fileID: 10753, guid: 0000000000000000f000000000000000, type: 0}
 >>>>>>> Map update
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -26,10 +30,16 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
 <<<<<<< main
+<<<<<<< main
+=======
+>>>>>>> Map update
     - _AlphaTex:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+<<<<<<< main
+=======
+>>>>>>> Map update
 =======
 >>>>>>> Map update
     - _BumpMap:
@@ -54,9 +64,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _MainTex:
 <<<<<<< main
+<<<<<<< main
         m_Texture: {fileID: 2800000, guid: fd11b518123d78145b0941ec22f37d1e, type: 3}
 =======
         m_Texture: {fileID: 0}
+>>>>>>> Map update
+=======
+        m_Texture: {fileID: 2800000, guid: 9f06324b162a387469642b7b072ea219, type: 3}
 >>>>>>> Map update
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -75,16 +89,24 @@ Material:
     m_Ints: []
     m_Floats:
 <<<<<<< main
+<<<<<<< main
     - PixelSnap: 0
 =======
+>>>>>>> Map update
+=======
+    - PixelSnap: 0
 >>>>>>> Map update
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
 <<<<<<< main
+<<<<<<< main
     - _EnableExternalAlpha: 0
 =======
+>>>>>>> Map update
+=======
+    - _EnableExternalAlpha: 0
 >>>>>>> Map update
     - _GlossMapScale: 1
     - _Glossiness: 0.5
@@ -102,8 +124,13 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
 <<<<<<< main
+<<<<<<< main
     - _Flip: {r: 1, g: 1, b: 1, a: 1}
     - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
 =======
+>>>>>>> Map update
+=======
+    - _Flip: {r: 1, g: 1, b: 1, a: 1}
+    - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
 >>>>>>> Map update
   m_BuildTextureStacks: []
