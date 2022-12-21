@@ -32,6 +32,7 @@ MonoBehaviour:
   m_ShowMode: 4
 <<<<<<< main
 <<<<<<< main
+<<<<<<< main
   m_Title: Hierarchy
 =======
     x: 2249
@@ -65,6 +66,9 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title:
 >>>>>>> main
+=======
+  m_Title: Scene
+>>>>>>> Ui update
 =======
   m_Title: Scene
 >>>>>>> Ui update
@@ -116,6 +120,7 @@ MonoBehaviour:
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
   controlID: 17
+<<<<<<< main
 <<<<<<< main
 <<<<<<< main
 <<<<<<< main
@@ -194,6 +199,8 @@ MonoBehaviour:
 >>>>>>> Ui update
 =======
 >>>>>>> Ui update
+=======
+>>>>>>> Ui update
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,6 +230,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 921
     y: 0
+<<<<<<< main
 <<<<<<< main
 <<<<<<< main
     width: 285
@@ -265,11 +273,16 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> Ui update
+=======
+>>>>>>> Ui update
     width: 364
     height: 722.8
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
 <<<<<<< main
+<<<<<<< main
+>>>>>>> Ui update
+=======
 >>>>>>> Ui update
 =======
 >>>>>>> Ui update
@@ -620,6 +633,7 @@ MonoBehaviour:
   vertical: 1
 <<<<<<< main
 <<<<<<< main
+<<<<<<< main
 <<<<<<< HEAD
   controlID: 83
 =======
@@ -699,6 +713,9 @@ MonoBehaviour:
 =======
   controlID: 42
 >>>>>>> Ui update
+=======
+  controlID: 42
+>>>>>>> Ui update
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -739,6 +756,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
+<<<<<<< main
 <<<<<<< main
 <<<<<<< main
 <<<<<<< HEAD
@@ -814,6 +832,9 @@ MonoBehaviour:
   vertical: 0
   controlID: 93
 >>>>>>> main
+=======
+  controlID: 43
+>>>>>>> Ui update
 =======
   controlID: 43
 >>>>>>> Ui update
@@ -1137,6 +1158,7 @@ MonoBehaviour:
     m_Folders:
 <<<<<<< main
 <<<<<<< main
+<<<<<<< main
 <<<<<<< HEAD
 <<<<<<< Rick
 <<<<<<< HEAD
@@ -1185,10 +1207,14 @@ MonoBehaviour:
 =======
     - Assets/knight
 >>>>>>> Ui update
+=======
+    - Assets/knight
+>>>>>>> Ui update
     m_Globs: []
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
+<<<<<<< main
 <<<<<<< main
 <<<<<<< main
 <<<<<<< HEAD
@@ -1243,10 +1269,16 @@ MonoBehaviour:
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\oguzh\Desktop\Game-Jam
 >>>>>>> Ui update
+=======
+  - Assets/knight
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: C:\Users\oguzh\Desktop\Game-Jam
+>>>>>>> Ui update
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< main
 <<<<<<< main
 <<<<<<< main
 <<<<<<< HEAD
@@ -1335,6 +1367,11 @@ MonoBehaviour:
     m_LastClickedID: 24984
     m_ExpandedIDs: 000000003860000000ca9a3bffffff7f
 >>>>>>> Ui update
+=======
+    m_SelectedIDs: 98610000
+    m_LastClickedID: 24984
+    m_ExpandedIDs: 000000003860000000ca9a3bffffff7f
+>>>>>>> Ui update
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name:
@@ -1384,6 +1421,7 @@ MonoBehaviour:
     m_LastClickedID: 0
 <<<<<<< main
 <<<<<<< main
+<<<<<<< main
 <<<<<<< HEAD
 <<<<<<< Rick
 <<<<<<< HEAD
@@ -1425,6 +1463,9 @@ MonoBehaviour:
 =======
     m_ExpandedIDs: 00000000f4350000
 >>>>>>> main
+=======
+    m_ExpandedIDs: 0000000038600000
+>>>>>>> Ui update
 =======
     m_ExpandedIDs: 0000000038600000
 >>>>>>> Ui update
@@ -1706,6 +1747,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
 <<<<<<< main
 <<<<<<< main
+<<<<<<< main
 <<<<<<< HEAD
 <<<<<<< Rick
 <<<<<<< HEAD
@@ -1762,6 +1804,11 @@ MonoBehaviour:
       m_LastClickedID: 25150
       m_ExpandedIDs: bcf6fffffef7ffff76f8ffffb6f8ffffd6f9ffff22fbffff3e620000
 >>>>>>> Ui update
+=======
+      m_SelectedIDs: 3e620000
+      m_LastClickedID: 25150
+      m_ExpandedIDs: bcf6fffffef7ffff76f8ffffb6f8ffffd6f9ffff22fbffff3e620000
+>>>>>>> Ui update
       m_RenameOverlay:
         m_UserAcceptedRename: 0
 <<<<<<< HEAD
@@ -1807,6 +1854,7 @@ MonoBehaviour:
           height: 0
 <<<<<<< main
 <<<<<<< main
+<<<<<<< main
 <<<<<<< HEAD
 <<<<<<< Rick
 <<<<<<< HEAD
@@ -1840,6 +1888,9 @@ MonoBehaviour:
 =======
         m_UserData: 0
 >>>>>>> main
+=======
+        m_UserData: 25150
+>>>>>>> Ui update
 =======
         m_UserData: 25150
 >>>>>>> Ui update
@@ -1998,6 +2049,7 @@ MonoBehaviour:
       displayed: 0
 <<<<<<< main
 <<<<<<< main
+<<<<<<< main
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< main
@@ -2011,6 +2063,9 @@ MonoBehaviour:
 =======
       snapOffset: {x: 0, y: 0}
 >>>>>>> main
+=======
+      snapOffset: {x: -156.79999, y: -105.600006}
+>>>>>>> Ui update
 =======
       snapOffset: {x: -156.79999, y: -105.600006}
 >>>>>>> Ui update
@@ -2116,6 +2171,7 @@ MonoBehaviour:
       collapsed: 0
 <<<<<<< main
 <<<<<<< main
+<<<<<<< main
 <<<<<<< HEAD
       displayed: 1
 =======
@@ -2124,6 +2180,9 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< main
 >>>>>>> main
+=======
+      displayed: 0
+>>>>>>> Ui update
 =======
       displayed: 0
 >>>>>>> Ui update
@@ -2229,6 +2288,7 @@ MonoBehaviour:
   m_Position:
 <<<<<<< main
 <<<<<<< main
+<<<<<<< main
 <<<<<<< HEAD
 <<<<<<< Rick
 <<<<<<< HEAD
@@ -2310,6 +2370,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 4539712, y: 1177406.1, z: -9523.576}
 >>>>>>> Ui update
+=======
+    m_Target: {x: 4539712, y: 1177406.1, z: -9523.576}
+    speed: 2
+    m_Value: {x: 4539712, y: 1177406.1, z: -9523.576}
+>>>>>>> Ui update
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -2328,6 +2393,7 @@ MonoBehaviour:
     showVisualEffectGraphs: 1
 <<<<<<< main
 <<<<<<< main
+<<<<<<< main
 <<<<<<< HEAD
 <<<<<<< Rick
 <<<<<<< HEAD
@@ -2341,6 +2407,9 @@ MonoBehaviour:
 >>>>>>> Update
 =======
 >>>>>>> main
+=======
+    m_FxEnabled: 0
+>>>>>>> Ui update
 =======
     m_FxEnabled: 0
 >>>>>>> Ui update
@@ -2387,6 +2456,7 @@ MonoBehaviour:
     m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
 >>>>>>> Update
   m_Size:
+<<<<<<< main
 <<<<<<< main
 <<<<<<< main
     m_Target: 10
@@ -2460,6 +2530,11 @@ MonoBehaviour:
     speed: 2
     m_Value: 10
 >>>>>>> main
+=======
+    m_Target: 28957.605
+    speed: 2
+    m_Value: 28957.605
+>>>>>>> Ui update
 =======
     m_Target: 28957.605
     speed: 2
@@ -2614,6 +2689,7 @@ MonoBehaviour:
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
 <<<<<<< main
 <<<<<<< main
+<<<<<<< main
 <<<<<<< HEAD
 <<<<<<< Rick
 <<<<<<< HEAD
@@ -2663,6 +2739,9 @@ MonoBehaviour:
 =======
   m_TargetSize: {x: 686, y: 386}
 >>>>>>> Ui update
+=======
+  m_TargetSize: {x: 686, y: 386}
+>>>>>>> Ui update
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 0
@@ -2679,6 +2758,7 @@ MonoBehaviour:
     vZoomLockedByDefault: 0
 <<<<<<< main
 <<<<<<< main
+<<<<<<< main
 <<<<<<< HEAD
 <<<<<<< Rick
 <<<<<<< HEAD
@@ -2692,6 +2772,8 @@ MonoBehaviour:
 <<<<<<< refs/remotes/origin/main
 <<<<<<< HEAD
 >>>>>>> Map update
+=======
+>>>>>>> Ui update
 =======
 >>>>>>> Ui update
 =======
@@ -2769,6 +2851,7 @@ MonoBehaviour:
       height: 386
 <<<<<<< main
 <<<<<<< main
+<<<<<<< main
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 439.00003, y: 193}
 =======
@@ -2782,6 +2865,8 @@ MonoBehaviour:
 >>>>>>> Map update
       width: 879.6
       height: 386
+=======
+>>>>>>> Ui update
 =======
 >>>>>>> Ui update
 =======
@@ -2845,6 +2930,7 @@ MonoBehaviour:
       serializedVersion: 2
 <<<<<<< main
 <<<<<<< main
+<<<<<<< main
 <<<<<<< HEAD
 <<<<<<< Rick
 <<<<<<< HEAD
@@ -2867,10 +2953,13 @@ MonoBehaviour:
 >>>>>>> Ui update
 =======
 >>>>>>> Ui update
+=======
+>>>>>>> Ui update
       x: -390.75665
       y: -171.47803
       width: 781.5133
       height: 342.95605
+<<<<<<< main
 <<<<<<< main
 <<<<<<< main
 =======
@@ -2880,6 +2969,8 @@ MonoBehaviour:
       width: 879.6
       height: 386
 >>>>>>> Map update
+=======
+>>>>>>> Ui update
 =======
 >>>>>>> Ui update
 =======
