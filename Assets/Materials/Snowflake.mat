@@ -7,6 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< main
   m_Name: snowflake
   m_Shader: {fileID: 10753, guid: 0000000000000000f000000000000000, type: 0}
@@ -18,6 +19,10 @@ Material:
 =======
   m_Shader: {fileID: 10753, guid: 0000000000000000f000000000000000, type: 0}
 >>>>>>> Map update
+=======
+  m_Name: Snowflake
+  m_Shader: {fileID: 10753, guid: 0000000000000000f000000000000000, type: 0}
+>>>>>>> Stephan
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -29,19 +34,25 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+<<<<<<< HEAD
 <<<<<<< main
 <<<<<<< main
 =======
 >>>>>>> Map update
+=======
+>>>>>>> Stephan
     - _AlphaTex:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+<<<<<<< HEAD
 <<<<<<< main
 =======
 >>>>>>> Map update
 =======
 >>>>>>> Map update
+=======
+>>>>>>> Stephan
     - _BumpMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -63,6 +74,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
+<<<<<<< HEAD
 <<<<<<< main
 <<<<<<< main
         m_Texture: {fileID: 2800000, guid: fd11b518123d78145b0941ec22f37d1e, type: 3}
@@ -72,6 +84,9 @@ Material:
 =======
         m_Texture: {fileID: 2800000, guid: 9f06324b162a387469642b7b072ea219, type: 3}
 >>>>>>> Map update
+=======
+        m_Texture: {fileID: 2800000, guid: 9f06324b162a387469642b7b072ea219, type: 3}
+>>>>>>> Stephan
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -88,6 +103,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+<<<<<<< HEAD
 <<<<<<< main
 <<<<<<< main
     - PixelSnap: 0
@@ -96,10 +112,14 @@ Material:
 =======
     - PixelSnap: 0
 >>>>>>> Map update
+=======
+    - PixelSnap: 0
+>>>>>>> Stephan
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
+<<<<<<< HEAD
 <<<<<<< main
 <<<<<<< main
     - _EnableExternalAlpha: 0
@@ -108,6 +128,9 @@ Material:
 =======
     - _EnableExternalAlpha: 0
 >>>>>>> Map update
+=======
+    - _EnableExternalAlpha: 0
+>>>>>>> Stephan
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
@@ -123,6 +146,7 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+<<<<<<< HEAD
 <<<<<<< main
 <<<<<<< main
     - _Flip: {r: 1, g: 1, b: 1, a: 1}
@@ -133,4 +157,8 @@ Material:
     - _Flip: {r: 1, g: 1, b: 1, a: 1}
     - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
 >>>>>>> Map update
+=======
+    - _Flip: {r: 1, g: 1, b: 1, a: 1}
+    - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
+>>>>>>> Stephan
   m_BuildTextureStacks: []
