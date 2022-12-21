@@ -10,6 +10,7 @@ public class PlayerCombat : MonoBehaviour
     public Transform attackpoint;
     public float attackRange = 0.5f;
     public LayerMask enemyLayers;
+<<<<<<< main
     public float attackRate = 4f;
     float nextAttackTime = 0f;
     public int attackDamage = 40;
@@ -17,6 +18,12 @@ public class PlayerCombat : MonoBehaviour
     void Update()
     {
         if(Time.time >= nextAttackTime)
+=======
+    // Update is called once per frame
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Q))
+>>>>>>> Knight
         {
             if (Input.GetKeyDown(KeyCode.Q))
             {
@@ -34,7 +41,11 @@ public class PlayerCombat : MonoBehaviour
         //damage them
         foreach(Collider2D enemy in hitEnemies)
         {
+<<<<<<< main
             enemy.GetComponent<Enemy>().TakeDamage(attackDamage);
+=======
+            Debug.Log("We hit " + enemy.name);
+>>>>>>> Knight
         }
     }
     private void OnDrawGizmosSelected()
