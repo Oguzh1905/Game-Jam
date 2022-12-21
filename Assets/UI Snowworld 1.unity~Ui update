@@ -6665,10 +6665,14 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
 <<<<<<< main
+<<<<<<< main
       - m_Target: {fileID: 1295583512}
 =======
       - m_Target: {fileID: 1013502250}
 >>>>>>> Ui update
+=======
+      - m_Target: {fileID: 1295583512}
+>>>>>>> UI fix
         m_TargetAssemblyTypeName: mainmenu, Assembly-CSharp
         m_MethodName: PlayGame
         m_Mode: 1
@@ -6943,9 +6947,13 @@ GameObject:
   - component: {fileID: 1295583511}
   - component: {fileID: 1295583510}
 <<<<<<< main
+<<<<<<< main
   - component: {fileID: 1295583512}
 =======
 >>>>>>> Ui update
+=======
+  - component: {fileID: 1295583512}
+>>>>>>> UI fix
   m_Layer: 5
   m_Name: Button container
   m_TagString: Untagged
@@ -7015,6 +7023,9 @@ CanvasRenderer:
   m_GameObject: {fileID: 1295583508}
   m_CullTransparentMesh: 1
 <<<<<<< main
+<<<<<<< main
+=======
+>>>>>>> UI fix
 --- !u!114 &1295583512
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7027,8 +7038,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ad3cfd7358cda54a9ffa2985164cba5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< main
 =======
 >>>>>>> Ui update
+=======
+>>>>>>> UI fix
 --- !u!1 &1358911071
 GameObject:
   m_ObjectHideFlags: 0
@@ -7428,9 +7442,13 @@ GameObject:
   - component: {fileID: 1979134748}
   - component: {fileID: 1979134747}
 <<<<<<< main
+<<<<<<< main
   - component: {fileID: 1979134749}
 =======
 >>>>>>> Ui update
+=======
+  - component: {fileID: 1979134749}
+>>>>>>> UI fix
   m_Layer: 5
   m_Name: Image
   m_TagString: Untagged
@@ -7497,6 +7515,9 @@ CanvasRenderer:
   m_GameObject: {fileID: 1979134745}
   m_CullTransparentMesh: 1
 <<<<<<< main
+<<<<<<< main
+=======
+>>>>>>> UI fix
 --- !u!95 &1979134749
 Animator:
   serializedVersion: 4
@@ -7517,8 +7538,11 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+<<<<<<< main
 =======
 >>>>>>> Ui update
+=======
+>>>>>>> UI fix
 --- !u!1 &1997249267
 GameObject:
   m_ObjectHideFlags: 0
@@ -7739,10 +7763,14 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
 <<<<<<< main
+<<<<<<< main
       - m_Target: {fileID: 1295583512}
 =======
       - m_Target: {fileID: 1013502250}
 >>>>>>> Ui update
+=======
+      - m_Target: {fileID: 1295583512}
+>>>>>>> UI fix
         m_TargetAssemblyTypeName: mainmenu, Assembly-CSharp
         m_MethodName: QuitGame
         m_Mode: 1
