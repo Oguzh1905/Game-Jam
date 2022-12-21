@@ -920,10 +920,14 @@ Camera:
   field of view: 60
   orthographic: 1
 <<<<<<< main
+<<<<<<< main
   orthographic size: 200
 =======
   orthographic size: 5
 >>>>>>> Ui update
+=======
+  orthographic size: 200
+>>>>>>> Update UI
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -948,10 +952,14 @@ Transform:
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
 <<<<<<< main
+<<<<<<< main
   m_LocalPosition: {x: 343, y: 193, z: -997}
 =======
   m_LocalPosition: {x: 0, y: 0, z: -10}
 >>>>>>> Ui update
+=======
+  m_LocalPosition: {x: 343, y: 193, z: -997}
+>>>>>>> Update UI
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1439,6 +1447,9 @@ CanvasRenderer:
   m_GameObject: {fileID: 948719506}
   m_CullTransparentMesh: 1
 <<<<<<< main
+<<<<<<< main
+=======
+>>>>>>> Update UI
 --- !u!1 &962785683
 GameObject:
   m_ObjectHideFlags: 0
@@ -6296,8 +6307,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 962785683}
   m_CullTransparentMesh: 1
+<<<<<<< main
 =======
 >>>>>>> Ui update
+=======
+>>>>>>> Update UI
 --- !u!1 &1013502245
 GameObject:
   m_ObjectHideFlags: 0
@@ -6400,9 +6414,13 @@ RectTransform:
   - {fileID: 1273204820}
   - {fileID: 1979134746}
 <<<<<<< main
+<<<<<<< main
   - {fileID: 962785684}
 =======
 >>>>>>> Ui update
+=======
+  - {fileID: 962785684}
+>>>>>>> Update UI
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
