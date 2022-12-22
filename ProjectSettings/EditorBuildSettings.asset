@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/SnowWorld.unity
     guid: 10ef1f928bffc0f4d86bbeb4452f0252
+  - enabled: 1
+    path: Assets/Game Over UI.unity
+    guid: 1260d8b9371e4fd4aa7de5b7a8373fe9
   m_configObjects: {}
