@@ -355,6 +355,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0da1377574abc34289a41e9cfa90d7a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  GameOverScreen: {fileID: 0}
 --- !u!1 &1247802893
 GameObject:
   m_ObjectHideFlags: 0
@@ -470,6 +471,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5cdba3ad33431444aa630d3c48e2b9fd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  waitforAnyKey: 2
+  anyKeyTest: {fileID: 1993657244}
+  mainMenuScene: UI Snowworld 1
 --- !u!1 &1508710476
 GameObject:
   m_ObjectHideFlags: 0
@@ -555,7 +559,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1993657245
 RectTransform:
   m_ObjectHideFlags: 0
