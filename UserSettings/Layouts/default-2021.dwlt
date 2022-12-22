@@ -30,6 +30,7 @@ MonoBehaviour:
     height: 758.4
 >>>>>>> main
   m_ShowMode: 4
+<<<<<<< HEAD
 <<<<<<< main
 <<<<<<< main
 <<<<<<< main
@@ -75,6 +76,9 @@ MonoBehaviour:
 =======
   m_Title: Scene
 >>>>>>> Ui update
+=======
+  m_Title: Scene
+>>>>>>> Oguzhan
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -120,6 +124,7 @@ MonoBehaviour:
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
   controlID: 17
+<<<<<<< HEAD
 <<<<<<< main
 <<<<<<< main
 <<<<<<< main
@@ -201,6 +206,8 @@ MonoBehaviour:
 >>>>>>> Ui update
 =======
 >>>>>>> Ui update
+=======
+>>>>>>> Oguzhan
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -230,6 +237,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 921
     y: 0
+<<<<<<< HEAD
 <<<<<<< main
 <<<<<<< main
 <<<<<<< main
@@ -275,10 +283,13 @@ MonoBehaviour:
 >>>>>>> Ui update
 =======
 >>>>>>> Ui update
+=======
+>>>>>>> Oguzhan
     width: 364
     height: 722.8
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
+<<<<<<< HEAD
 <<<<<<< main
 <<<<<<< main
 >>>>>>> Ui update
@@ -286,6 +297,8 @@ MonoBehaviour:
 >>>>>>> Ui update
 =======
 >>>>>>> Ui update
+=======
+>>>>>>> Oguzhan
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -631,6 +644,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
+<<<<<<< HEAD
 <<<<<<< main
 <<<<<<< main
 <<<<<<< main
@@ -716,6 +730,9 @@ MonoBehaviour:
 =======
   controlID: 42
 >>>>>>> Ui update
+=======
+  controlID: 42
+>>>>>>> Oguzhan
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -756,6 +773,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
+<<<<<<< HEAD
 <<<<<<< main
 <<<<<<< main
 <<<<<<< main
@@ -841,6 +859,9 @@ MonoBehaviour:
 =======
   controlID: 43
 >>>>>>> Ui update
+=======
+  controlID: 43
+>>>>>>> Oguzhan
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1156,6 +1177,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
 <<<<<<< main
 <<<<<<< main
 <<<<<<< main
@@ -1210,10 +1232,14 @@ MonoBehaviour:
 =======
     - Assets/knight
 >>>>>>> Ui update
+=======
+    - Assets/knight
+>>>>>>> Oguzhan
     m_Globs: []
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
+<<<<<<< HEAD
 <<<<<<< main
 <<<<<<< main
 <<<<<<< main
@@ -1274,10 +1300,16 @@ MonoBehaviour:
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\oguzh\Desktop\Game-Jam
 >>>>>>> Ui update
+=======
+  - Assets/knight
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: C:\Users\oguzh\Desktop\Game-Jam
+>>>>>>> Oguzhan
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
 <<<<<<< main
 <<<<<<< main
 <<<<<<< main
@@ -1372,6 +1404,11 @@ MonoBehaviour:
     m_LastClickedID: 24984
     m_ExpandedIDs: 000000003860000000ca9a3bffffff7f
 >>>>>>> Ui update
+=======
+    m_SelectedIDs: 98610000
+    m_LastClickedID: 24984
+    m_ExpandedIDs: 000000003860000000ca9a3bffffff7f
+>>>>>>> Oguzhan
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name:
@@ -1419,6 +1456,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs:
     m_LastClickedID: 0
+<<<<<<< HEAD
 <<<<<<< main
 <<<<<<< main
 <<<<<<< main
@@ -1472,6 +1510,9 @@ MonoBehaviour:
 =======
     m_ExpandedIDs: 0000000038600000
 >>>>>>> Ui update
+=======
+    m_ExpandedIDs: 0000000038600000
+>>>>>>> Oguzhan
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name:
@@ -1745,6 +1786,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
 <<<<<<< main
 <<<<<<< main
 <<<<<<< main
@@ -1809,6 +1851,11 @@ MonoBehaviour:
       m_LastClickedID: 25150
       m_ExpandedIDs: bcf6fffffef7ffff76f8ffffb6f8ffffd6f9ffff22fbffff3e620000
 >>>>>>> Ui update
+=======
+      m_SelectedIDs: 3e620000
+      m_LastClickedID: 25150
+      m_ExpandedIDs: bcf6fffffef7ffff76f8ffffb6f8ffffd6f9ffff22fbffff3e620000
+>>>>>>> Oguzhan
       m_RenameOverlay:
         m_UserAcceptedRename: 0
 <<<<<<< HEAD
@@ -1852,6 +1899,7 @@ MonoBehaviour:
           y: 0
           width: 0
           height: 0
+<<<<<<< HEAD
 <<<<<<< main
 <<<<<<< main
 <<<<<<< main
@@ -1897,6 +1945,9 @@ MonoBehaviour:
 =======
         m_UserData: 25150
 >>>>>>> Ui update
+=======
+        m_UserData: 25150
+>>>>>>> Oguzhan
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
         m_OriginalEventType: 11
@@ -2047,6 +2098,7 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 0
+<<<<<<< HEAD
 <<<<<<< main
 <<<<<<< main
 <<<<<<< main
@@ -2072,6 +2124,9 @@ MonoBehaviour:
 =======
       snapOffset: {x: -156.79999, y: -105.600006}
 >>>>>>> Ui update
+=======
+      snapOffset: {x: -156.79999, y: -105.600006}
+>>>>>>> Oguzhan
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 3
       id: Scene View/Camera
@@ -2169,6 +2224,7 @@ MonoBehaviour:
       containerId: overlay-container--right
       floating: 0
       collapsed: 0
+<<<<<<< HEAD
 <<<<<<< main
 <<<<<<< main
 <<<<<<< main
@@ -2189,6 +2245,9 @@ MonoBehaviour:
 =======
       displayed: 0
 >>>>>>> Ui update
+=======
+      displayed: 0
+>>>>>>> Oguzhan
       snapOffset: {x: -232, y: -188}
 =======
       snapOffset: {x: 0, y: 0}
@@ -2286,6 +2345,7 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
 <<<<<<< main
 <<<<<<< main
 <<<<<<< main
@@ -2375,6 +2435,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 4539712, y: 1177406.1, z: -9523.576}
 >>>>>>> Ui update
+=======
+    m_Target: {x: 4539712, y: 1177406.1, z: -9523.576}
+    speed: 2
+    m_Value: {x: 4539712, y: 1177406.1, z: -9523.576}
+>>>>>>> Oguzhan
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -2391,6 +2456,7 @@ MonoBehaviour:
     showImageEffects: 1
     showParticleSystems: 1
     showVisualEffectGraphs: 1
+<<<<<<< HEAD
 <<<<<<< main
 <<<<<<< main
 <<<<<<< main
@@ -2416,6 +2482,9 @@ MonoBehaviour:
 =======
     m_FxEnabled: 0
 >>>>>>> Ui update
+=======
+    m_FxEnabled: 0
+>>>>>>> Oguzhan
   m_Grid:
     xGrid:
       m_Fade:
@@ -2456,6 +2525,7 @@ MonoBehaviour:
     m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
 >>>>>>> Update
   m_Size:
+<<<<<<< HEAD
 <<<<<<< main
 <<<<<<< main
 <<<<<<< main
@@ -2545,6 +2615,11 @@ MonoBehaviour:
     speed: 2
     m_Value: 28957.605
 >>>>>>> Ui update
+=======
+    m_Target: 28957.605
+    speed: 2
+    m_Value: 28957.605
+>>>>>>> Oguzhan
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -2687,6 +2762,7 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
+<<<<<<< HEAD
 <<<<<<< main
 <<<<<<< main
 <<<<<<< main
@@ -2742,6 +2818,9 @@ MonoBehaviour:
 =======
   m_TargetSize: {x: 686, y: 386}
 >>>>>>> Ui update
+=======
+  m_TargetSize: {x: 686, y: 386}
+>>>>>>> Oguzhan
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 0
@@ -2756,6 +2835,7 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
+<<<<<<< HEAD
 <<<<<<< main
 <<<<<<< main
 <<<<<<< main
@@ -2778,6 +2858,8 @@ MonoBehaviour:
 >>>>>>> Ui update
 =======
 >>>>>>> Ui update
+=======
+>>>>>>> Oguzhan
     m_HBaseRangeMin: -274.4
     m_HBaseRangeMax: 274.4
     m_VBaseRangeMin: -154.40001
@@ -2849,6 +2931,7 @@ MonoBehaviour:
 <<<<<<< HEAD
       width: 878.00006
       height: 386
+<<<<<<< HEAD
 <<<<<<< main
 <<<<<<< main
 <<<<<<< main
@@ -2871,6 +2954,8 @@ MonoBehaviour:
 >>>>>>> Ui update
 =======
 >>>>>>> Ui update
+=======
+>>>>>>> Oguzhan
     m_Scale: {x: 1.1255087, y: 1.1255087}
     m_Translation: {x: 439.8, y: 193}
 =======
@@ -2928,6 +3013,7 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< main
 <<<<<<< main
 <<<<<<< main
@@ -2955,10 +3041,13 @@ MonoBehaviour:
 >>>>>>> Ui update
 =======
 >>>>>>> Ui update
+=======
+>>>>>>> Oguzhan
       x: -390.75665
       y: -171.47803
       width: 781.5133
       height: 342.95605
+<<<<<<< HEAD
 <<<<<<< main
 <<<<<<< main
 <<<<<<< main
@@ -2975,6 +3064,8 @@ MonoBehaviour:
 >>>>>>> Ui update
 =======
 >>>>>>> Ui update
+=======
+>>>>>>> Oguzhan
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1099.5, y: 508.75}
